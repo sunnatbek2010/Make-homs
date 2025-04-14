@@ -201,11 +201,12 @@ a{
     width: 680px;
 }
 .text-line{
-    color: #2C2C2C;
+    color:#996830;
     display: flex;
     align-items: center;
     width: 150px;
     gap: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
